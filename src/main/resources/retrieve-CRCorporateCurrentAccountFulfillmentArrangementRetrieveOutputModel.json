@@ -1,0 +1,45 @@
+{
+  "corporateCurrentAccountFulfillmentArrangementRetrieveActionTaskRecord" : {},
+  "corporateCurrentAccountFulfillmentArrangementInstanceAnalysis" : {
+    "corporateCurrentAccountFulfillmentArrangementInstanceAnalysisReport" : {},
+    "corporateCurrentAccountFulfillmentArrangementInstanceAnalysisReportType" : "corporateCurrentAccountFulfillmentArrangementInstanceAnalysisReportType",
+    "corporateCurrentAccountFulfillmentArrangementInstanceAnalysisData" : "corporateCurrentAccountFulfillmentArrangementInstanceAnalysisData"
+  },
+  "corporateCurrentAccountFulfillmentArrangementRetrieveActionTaskReference" : "CCAFARATR785792",
+  "corporateCurrentAccountFulfillmentArrangementRetrieveActionResponse" : "corporateCurrentAccountFulfillmentArrangementRetrieveActionResponse",
+  "corporateCurrentAccountFulfillmentArrangementInstanceReportRecord" : {
+    "corporateCurrentAccountFulfillmentArrangementInstanceReportData" : "corporateCurrentAccountFulfillmentArrangementInstanceReportData",
+    "corporateCurrentAccountFulfillmentArrangementInstanceReport" : {},
+    "corporateCurrentAccountFulfillmentArrangementInstanceReportType" : "corporateCurrentAccountFulfillmentArrangementInstanceReportType"
+  },
+  "corporateCurrentAccountFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "783690",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "710601",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "accountType" : "accountType",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "bankBranchLocationReference" : "725013",
+    "productInstanceReference" : "797938",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "corporateCurrentAccountNumber" : "corporateCurrentAccountNumber",
+    "customerReference" : "710071",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  }
+}

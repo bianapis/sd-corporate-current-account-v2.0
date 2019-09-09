@@ -1,0 +1,20 @@
+{
+  "accountLienInitiateActionReference" : "ALIAR732959",
+  "accountLienInitiateActionRecord" : {},
+  "accountLienInstanceStatus" : "accountLienInstanceStatus",
+  "accountLienInstanceRecord" : {
+    "lienDefinition" : "lienDefinition"
+  },
+  "accountLienInstanceReference" : "ALIR760889",
+  "corporateCurrentAccountFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "depositsandWithdrawalsInitiateActionRecord" : {},
+  "depositsandWithdrawalsInstanceStatus" : "depositsandWithdrawalsInstanceStatus",
+  "depositsandWithdrawalsInstanceReference" : "DAWIR711545",
+  "depositsandWithdrawalsInitiateActionReference" : "DAWIAR799969",
+  "corporateCurrentAccountFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "positionLimits" : {
+      "positionLimitValue" : "positionLimitValue"
+    }
+  }
+}

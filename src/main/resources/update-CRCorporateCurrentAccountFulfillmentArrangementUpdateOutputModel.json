@@ -1,0 +1,35 @@
+{
+  "updateResponseRecord" : {},
+  "corporateCurrentAccountFulfillmentArrangementUpdateActionTaskReference" : "CCAFAUATR717819",
+  "corporateCurrentAccountFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "762136",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "717744",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "accountType" : "accountType",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "bankBranchLocationReference" : "726135",
+    "productInstanceReference" : "792051",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "corporateCurrentAccountNumber" : "corporateCurrentAccountNumber",
+    "customerReference" : "709151",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  },
+  "corporateCurrentAccountFulfillmentArrangementUpdateActionTaskRecord" : {}
+}

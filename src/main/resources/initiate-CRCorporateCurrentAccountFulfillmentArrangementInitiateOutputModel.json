@@ -1,0 +1,23 @@
+{
+  "corporateCurrentAccountFulfillmentArrangementInstanceStatus" : "corporateCurrentAccountFulfillmentArrangementInstanceStatus",
+  "corporateCurrentAccountFulfillmentArrangementInitiateActionRecord" : {},
+  "corporateCurrentAccountFulfillmentArrangementInstanceReference" : "CCAFAIR737088",
+  "corporateCurrentAccountFulfillmentArrangementInitiateActionReference" : "CCAFAIAR727556",
+  "corporateCurrentAccountFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "719946",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "corporateCurrentAccountNumber" : "corporateCurrentAccountNumber",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  }
+}

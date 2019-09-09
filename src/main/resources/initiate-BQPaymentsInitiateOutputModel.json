@@ -1,0 +1,24 @@
+{
+  "paymentsInstanceReference" : "PIR776389",
+  "paymentsInstanceStatus" : "paymentsInstanceStatus",
+  "paymentsInstanceRecord" : {
+    "paymentDefinition" : "paymentDefinition",
+    "paymentProcessingOptionDefinition" : "paymentProcessingOptionDefinition"
+  },
+  "paymentsInitiateActionReference" : "PIAR784544",
+  "corporateCurrentAccountFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "728729",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "705970",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings"
+    }
+  },
+  "paymentsInitiateActionRecord" : {}
+}
